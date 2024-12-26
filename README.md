@@ -1,5 +1,5 @@
 # Algorithm Basic Searching and Sorting Algorithms
-
+ 
 Welcome to the **Algorithm Basic Searching and Sorting Algorithms** repository! This repository contains comprehensive coverage of basic searching algorithms, sorting methods, and advanced tree-based algorithms. With step-by-step implementations in C# and in-depth explanations, this course aims to solidify your understanding of fundamental algorithms.
 
 ## 📚 Table of Contents
