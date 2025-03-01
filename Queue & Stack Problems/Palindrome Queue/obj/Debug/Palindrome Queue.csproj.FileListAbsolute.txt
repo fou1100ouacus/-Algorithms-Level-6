@@ -1,0 +1,7 @@
+D:\Programming\ALL About DSA\Course22&23ProgrammingAdvicesCodes\Course 23 AND leetcode\Palindrome Queue\bin\Debug\Palindrome Queue.exe.config
+D:\Programming\ALL About DSA\Course22&23ProgrammingAdvicesCodes\Course 23 AND leetcode\Palindrome Queue\bin\Debug\Palindrome Queue.exe
+D:\Programming\ALL About DSA\Course22&23ProgrammingAdvicesCodes\Course 23 AND leetcode\Palindrome Queue\bin\Debug\Palindrome Queue.pdb
+D:\Programming\ALL About DSA\Course22&23ProgrammingAdvicesCodes\Course 23 AND leetcode\Palindrome Queue\obj\Debug\Palindrome Queue.csproj.AssemblyReference.cache
+D:\Programming\ALL About DSA\Course22&23ProgrammingAdvicesCodes\Course 23 AND leetcode\Palindrome Queue\obj\Debug\Palindrome Queue.csproj.CoreCompileInputs.cache
+D:\Programming\ALL About DSA\Course22&23ProgrammingAdvicesCodes\Course 23 AND leetcode\Palindrome Queue\obj\Debug\Palindrome Queue.exe
+D:\Programming\ALL About DSA\Course22&23ProgrammingAdvicesCodes\Course 23 AND leetcode\Palindrome Queue\obj\Debug\Palindrome Queue.pdb

@@ -1,0 +1,7 @@
+D:\Programming\ALL About DSA\Course22&23ProgrammingAdvicesCodes\Course 23 AND leetcode\Rotate a Queue\bin\Debug\Rotate a Queue.exe.config
+D:\Programming\ALL About DSA\Course22&23ProgrammingAdvicesCodes\Course 23 AND leetcode\Rotate a Queue\bin\Debug\Rotate a Queue.exe
+D:\Programming\ALL About DSA\Course22&23ProgrammingAdvicesCodes\Course 23 AND leetcode\Rotate a Queue\bin\Debug\Rotate a Queue.pdb
+D:\Programming\ALL About DSA\Course22&23ProgrammingAdvicesCodes\Course 23 AND leetcode\Rotate a Queue\obj\Debug\Rotate a Queue.csproj.AssemblyReference.cache
+D:\Programming\ALL About DSA\Course22&23ProgrammingAdvicesCodes\Course 23 AND leetcode\Rotate a Queue\obj\Debug\Rotate a Queue.csproj.CoreCompileInputs.cache
+D:\Programming\ALL About DSA\Course22&23ProgrammingAdvicesCodes\Course 23 AND leetcode\Rotate a Queue\obj\Debug\Rotate a Queue.exe
+D:\Programming\ALL About DSA\Course22&23ProgrammingAdvicesCodes\Course 23 AND leetcode\Rotate a Queue\obj\Debug\Rotate a Queue.pdb
