@@ -22,6 +22,29 @@ namespace Convert_Decimal_to_Binary
         return string.Join("", stack);
 }
 
+// with all cases
+        public class Solution {
+    public string BaseNeg2(int n) {
+        if (n == 0) return "0";
+        
+        StringBuilder sb = new StringBuilder();
+        
+        while (n != 0) {
+            int remainder = n % -2;
+            n /= -2;
+            
+            // Adjust remainder and n if remainder is negative
+            if (remainder < 0) {
+                remainder += 2;
+                n += 1;
+            }
+            
+            sb.Insert(0, remainder);
+        }
+        
+        return sb.ToString();
+    }
+}
 
         static void Main(string[] args)
         {
