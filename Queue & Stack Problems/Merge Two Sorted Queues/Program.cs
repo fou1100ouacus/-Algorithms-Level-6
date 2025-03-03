@@ -7,7 +7,9 @@ using System.Threading.Tasks;
 namespace Merge_Two_Sorted_Queues
 {
     internal class Program
-    {  static Queue<int> MergeSortedQueues(Queue<int>q1,Queue<int> q2)
+    {  
+        
+        static Queue<int> MergeSortedQueues(Queue<int>q1,Queue<int> q2)
         {
             Queue<int> q = new Queue<int>();
             while (q1.Count>0 && q2.Count>0)
