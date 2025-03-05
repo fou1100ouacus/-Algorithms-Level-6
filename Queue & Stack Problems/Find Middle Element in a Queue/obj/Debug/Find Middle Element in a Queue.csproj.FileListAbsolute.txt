@@ -1,0 +1,7 @@
+D:\Programming\ALL About DSA\Course22&23ProgrammingAdvicesCodes\Course 23 AND leetcode\Find Middle Element in a Queue\bin\Debug\Find Middle Element in a Queue.exe.config
+D:\Programming\ALL About DSA\Course22&23ProgrammingAdvicesCodes\Course 23 AND leetcode\Find Middle Element in a Queue\bin\Debug\Find Middle Element in a Queue.exe
+D:\Programming\ALL About DSA\Course22&23ProgrammingAdvicesCodes\Course 23 AND leetcode\Find Middle Element in a Queue\bin\Debug\Find Middle Element in a Queue.pdb
+D:\Programming\ALL About DSA\Course22&23ProgrammingAdvicesCodes\Course 23 AND leetcode\Find Middle Element in a Queue\obj\Debug\Find Middle Element in a Queue.csproj.AssemblyReference.cache
+D:\Programming\ALL About DSA\Course22&23ProgrammingAdvicesCodes\Course 23 AND leetcode\Find Middle Element in a Queue\obj\Debug\Find Middle Element in a Queue.csproj.CoreCompileInputs.cache
+D:\Programming\ALL About DSA\Course22&23ProgrammingAdvicesCodes\Course 23 AND leetcode\Find Middle Element in a Queue\obj\Debug\Find Middle Element in a Queue.exe
+D:\Programming\ALL About DSA\Course22&23ProgrammingAdvicesCodes\Course 23 AND leetcode\Find Middle Element in a Queue\obj\Debug\Find Middle Element in a Queue.pdb
